@@ -31,7 +31,6 @@ public class BuildingLogic {
 			}
 		}
 		return flatsByNumberOfRoomsAndFloor;
-
 	}
 
 	public List<Flat> byArea(Building building, int area) {
